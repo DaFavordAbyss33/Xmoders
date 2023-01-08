@@ -74,7 +74,7 @@ async def help(ctx):
 
 def user_is_me(ctx):
 
-	return ctx.message.author.id == "381562121865003009"
+	return ctx.message.author.id == "934613299385999420"
 
 
 
